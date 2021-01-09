@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aykut</h1>
-<h3 align="center">Senior MIS Studend and Jr. Frontend Developer from Ankara</h3>
+<h3 align="center">Senior MIS Student and Jr. Frontend Developer from Ankara</h3>
 
 - 🌱 I’m currently learning **everything about frontend development.**
 
