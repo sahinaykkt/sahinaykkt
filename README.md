@@ -9,4 +9,3 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/sahinaykut/" target="_blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" alt="aykut-sahin" height="30" width="40" /></a>
 </p>
-<h3 align="left">Languages and Tools:</h3>
